@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">StudentDBDesign</string>
+
+    <string-array name="GenderEntries">
+
+        <item>Male</item>
+        <item>Female</item>
+
+    </string-array>
+
+    <string-array name="Class">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+</resources>
